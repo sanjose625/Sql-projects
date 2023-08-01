@@ -1,4 +1,4 @@
- # PostgreSQL Music Store Database
+ # SQL Music Store Database
 
 This project involves analyzing a  Music Store Database using PostgreSQL, a powerful relational database management system. By leveraging the capabilities of SQL, we can efficiently handle large datasets and gain valuable insights into customer churn behavior.
 
